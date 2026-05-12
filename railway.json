@@ -1,0 +1,8 @@
+{
+  "mounts": [
+    {
+      "source": "sqlite-data",
+      "destination": "/data"
+    }
+  ]
+}
